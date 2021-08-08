@@ -1,4 +1,4 @@
-# React Chartsy
+# React Charts
 
 Using Chart.js I built a page with three common charts. A Bar Chart,
 Line Chart, and a Pie Chart.
