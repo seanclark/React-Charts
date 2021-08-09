@@ -8,9 +8,9 @@ function App() {
       <h1>
         BUSINESS CHARTS
       </h1>
-      <section className = "chart">
-        <ChartComponent />
-      </section>
+        <section className = "chart">
+          <ChartComponent />
+        </section>
     </div>
   );
 }
